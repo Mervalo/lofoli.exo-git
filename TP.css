@@ -1,0 +1,62 @@
+h1 { color: black;
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif 
+    }
+ #conteneur
+{
+	display: flex 
+}
+ #rentree
+{
+  color:  orange;
+  border:0,5px solid red;
+  width:flit-content;
+}   
+.inscription
+	{
+		color: white;
+	}
+  body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d }
+  body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d }
+
+  body {
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d }
+
+	.sconteneur{
+	width: 50%
+}
+.sconteur: nth-child(1)
+{
+	font-family: 20px
+	border-style: 50%;
+}
+.text: focus
+{
+	color:red;
+}
+
+
+ 
+	.bouton
+	{ 
+		font-size: 20px;
+		color: blue;
+		border-radius: 50% ;
+		}
+.monimg
+{
+	width: 100px;
+}
